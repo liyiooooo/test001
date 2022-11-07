@@ -1,0 +1,16 @@
+header{
+    height: 250px;
+    background-image: url(https://images.pexels.com/photos/357756/pexels-photo-357756.jpeg?cs=srgb&dl=pexels-pixabay-357756.jpg&fm=jpg&_gl=1*1e4wlim*_ga*NzgzNDAwMzIyLjE2Njc4MDU0NDY.*_ga_8JE65Q40S6*MTY2NzgwNTQ0Ni4xLjEuMTY2NzgwNTQ1OS4wLjAuMA..);
+    background-size: cover;
+    background-position: center center;
+}
+header h1{
+    margin: 0;
+    padding-left: 50px;
+    padding-top: 20px;
+}
+header h2{
+    margin: 0;
+    padding-left: 50px;
+    padding-top: 20px;
+}
